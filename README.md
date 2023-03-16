@@ -7,7 +7,7 @@
 
 ##
 
-### **linguagens e Tecnologias:**
+### **Linguagens e Tecnologias:**
 
 <p float="left">
 <img alt="HTML5" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
