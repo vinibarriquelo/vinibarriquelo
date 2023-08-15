@@ -3,7 +3,7 @@
 ##
 
 <img alt="choubari" align="right" src="https://i.stack.imgur.com/bnB2I.png?s=192&g=1" width="100">
-<samp><p align=”justify” style="text-indent:40px;"> Desenvolvedor web como foco em frontend e no framework Angular.</p></samp>
+<samp><p align=”justify” style="text-indent:40px;"> Programador com foco em desenvolvimento web.</p></samp>
 
 ##
 
