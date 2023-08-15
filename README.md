@@ -23,7 +23,7 @@
 <img alt="Linux" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="40">
 <img alt="Linux" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40">
 <img alt="NGRX" src="https://ngrx.io/assets/images/badge.svg" width="40">
-<img alt="C#" src="[https://cdn-icons-png.flaticon.com/512/6132/6132221.png](https://www.stickersdevs.com.br/wp-content/uploads/2022/01/java-adesivo-sticker.png)" width="40">
+<img alt="C#" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40">
 <img alt="C#" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" width="40">
 <img alt="MySQL" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40">
 </p>
