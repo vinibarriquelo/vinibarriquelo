@@ -26,7 +26,7 @@
 <img alt="Java" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40">
 <img alt="spring" src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" width="40">
 <img alt="AWS" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" width="40">
-<img alt="MySQL" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40">
+<img alt="MySQL" src="[https://cdn-icons-png.flaticon.com/512/5968/5968313.png](https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png)" width="40">
 </p>
 
 ### **Estatísticas:**
